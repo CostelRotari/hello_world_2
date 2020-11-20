@@ -1,6 +1,7 @@
 # hello_world_2
 Annother trial. So I've don a change to the description, and we'll see how this will apear. when I'll try to merge the two changes.
 
+I wood like to do a change, duda, duda 
 
 [there is a way to atach links I saw](https://github.com/CostelRotari/hello_world_2/edit/main/README.md)
 
